@@ -8,13 +8,6 @@ info:
   author: "Catspindev"
   icon: ""
   website: ""
-
-admin:
-  view: "admin/view.blade.php"
-  controller: ""
-  css: ""
-  wrapper: ""
-
 dashboard:
   wrapper: ""
   css: "client/client.style.css"
