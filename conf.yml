@@ -1,16 +1,13 @@
-# Thank you for developing with Blueprint.
-# For documentation about conf.yml, refer to ptero.shop/dev/conf.
-
 info:
-  name: "Recolor"
-  identifier: "recolor"
-  description: "A Pterodactyl dark mode theme."
+  name: "DarkVX"
+  identifier: "DarkVX"
+  description: "DarkVX Is A blueprint theme"
   flags: ""
-  version: "1.4"
-  target: "alpha-L53"
-  author: "sp11rum"
-  icon: "assets/logo.jpg"
-  website: "https://github.com/sp11rum/recolor"
+  version: "0.1"
+  target: "beta-2024-07"
+  author: "Catspindev"
+  icon: ""
+  website: ""
 
 admin:
   view: "admin/view.blade.php"
